@@ -1,4 +1,4 @@
-# Bus-Reservation-System-using-C-with-MySQL
+# Bus-Reservation-System-using-C#-with-MySQL
 
 # Login Page
 ![image](https://github.com/user-attachments/assets/0037f7fb-8aa3-4e37-b6d1-40541339663c)
